@@ -1,0 +1,1 @@
+-- Gelişmiş v14 slash komutlu çekiliş bot altyapısıdır.
